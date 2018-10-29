@@ -1,0 +1,762 @@
+Fecha,DiaSemana,Mes,Anio,MesAnio,FinDeSemana,Quincena,QuincenaCompleta,FechaNumero
+1/09/2016,Jueves,9,2016,201609,Entre Semana,PrimeraQuincena,PrimeraQuincena,20160901
+2/09/2016,Viernes,9,2016,201609,Entre Semana,PrimeraQuincena,PrimeraQuincena,20160902
+3/09/2016,Sábado,9,2016,201609,Fin de Semana,PrimeraQuincena,PrimeraQuincena,20160903
+4/09/2016,Domingo,9,2016,201609,Fin de Semana,PrimeraQuincena,PrimeraQuincena,20160904
+5/09/2016,Lunes,9,2016,201609,Entre Semana,PrimeraQuincena,PrimeraQuincena,20160905
+6/09/2016,Martes,9,2016,201609,Entre Semana,PrimeraQuincena,PrimeraQuincena,20160906
+7/09/2016,Miércoles,9,2016,201609,Entre Semana,NoQuincena,PrimeraQuincena,20160907
+8/09/2016,Jueves,9,2016,201609,Entre Semana,NoQuincena,PrimeraQuincena,20160908
+9/09/2016,Viernes,9,2016,201609,Entre Semana,NoQuincena,PrimeraQuincena,20160909
+10/09/2016,Sábado,9,2016,201609,Fin de Semana,NoQuincena,PrimeraQuincena,20160910
+11/09/2016,Domingo,9,2016,201609,Fin de Semana,NoQuincena,PrimeraQuincena,20160911
+12/09/2016,Lunes,9,2016,201609,Entre Semana,NoQuincena,PrimeraQuincena,20160912
+13/09/2016,Martes,9,2016,201609,Entre Semana,NoQuincena,PrimeraQuincena,20160913
+14/09/2016,Miércoles,9,2016,201609,Entre Semana,SegundaQuincena,PrimeraQuincena,20160914
+15/09/2016,Jueves,9,2016,201609,Entre Semana,SegundaQuincena,PrimeraQuincena,20160915
+16/09/2016,Viernes,9,2016,201609,Entre Semana,SegundaQuincena,SegundaQuincena,20160916
+17/09/2016,Sábado,9,2016,201609,Fin de Semana,SegundaQuincena,SegundaQuincena,20160917
+18/09/2016,Domingo,9,2016,201609,Fin de Semana,SegundaQuincena,SegundaQuincena,20160918
+19/09/2016,Lunes,9,2016,201609,Entre Semana,SegundaQuincena,SegundaQuincena,20160919
+20/09/2016,Martes,9,2016,201609,Entre Semana,NoQuincena,SegundaQuincena,20160920
+21/09/2016,Miércoles,9,2016,201609,Entre Semana,NoQuincena,SegundaQuincena,20160921
+22/09/2016,Jueves,9,2016,201609,Entre Semana,NoQuincena,SegundaQuincena,20160922
+23/09/2016,Viernes,9,2016,201609,Entre Semana,NoQuincena,SegundaQuincena,20160923
+24/09/2016,Sábado,9,2016,201609,Fin de Semana,NoQuincena,SegundaQuincena,20160924
+25/09/2016,Domingo,9,2016,201609,Fin de Semana,NoQuincena,SegundaQuincena,20160925
+26/09/2016,Lunes,9,2016,201609,Entre Semana,NoQuincena,SegundaQuincena,20160926
+27/09/2016,Martes,9,2016,201609,Entre Semana,NoQuincena,SegundaQuincena,20160927
+28/09/2016,Miércoles,9,2016,201609,Entre Semana,NoQuincena,SegundaQuincena,20160928
+29/09/2016,Jueves,9,2016,201609,Entre Semana,NoQuincena,SegundaQuincena,20160929
+30/09/2016,Viernes,9,2016,201609,Entre Semana,NoQuincena,SegundaQuincena,20160930
+1/10/2016,Sábado,10,2016,201610,Fin de Semana,PrimeraQuincena,PrimeraQuincena,20161001
+2/10/2016,Domingo,10,2016,201610,Fin de Semana,PrimeraQuincena,PrimeraQuincena,20161002
+3/10/2016,Lunes,10,2016,201610,Entre Semana,PrimeraQuincena,PrimeraQuincena,20161003
+4/10/2016,Martes,10,2016,201610,Entre Semana,PrimeraQuincena,PrimeraQuincena,20161004
+5/10/2016,Miércoles,10,2016,201610,Entre Semana,PrimeraQuincena,PrimeraQuincena,20161005
+6/10/2016,Jueves,10,2016,201610,Entre Semana,PrimeraQuincena,PrimeraQuincena,20161006
+7/10/2016,Viernes,10,2016,201610,Entre Semana,NoQuincena,PrimeraQuincena,20161007
+8/10/2016,Sábado,10,2016,201610,Fin de Semana,NoQuincena,PrimeraQuincena,20161008
+9/10/2016,Domingo,10,2016,201610,Fin de Semana,NoQuincena,PrimeraQuincena,20161009
+10/10/2016,Lunes,10,2016,201610,Entre Semana,NoQuincena,PrimeraQuincena,20161010
+11/10/2016,Martes,10,2016,201610,Entre Semana,NoQuincena,PrimeraQuincena,20161011
+12/10/2016,Miércoles,10,2016,201610,Entre Semana,NoQuincena,PrimeraQuincena,20161012
+13/10/2016,Jueves,10,2016,201610,Entre Semana,NoQuincena,PrimeraQuincena,20161013
+14/10/2016,Viernes,10,2016,201610,Entre Semana,SegundaQuincena,PrimeraQuincena,20161014
+15/10/2016,Sábado,10,2016,201610,Fin de Semana,SegundaQuincena,PrimeraQuincena,20161015
+16/10/2016,Domingo,10,2016,201610,Fin de Semana,SegundaQuincena,SegundaQuincena,20161016
+17/10/2016,Lunes,10,2016,201610,Entre Semana,SegundaQuincena,SegundaQuincena,20161017
+18/10/2016,Martes,10,2016,201610,Entre Semana,SegundaQuincena,SegundaQuincena,20161018
+19/10/2016,Miércoles,10,2016,201610,Entre Semana,SegundaQuincena,SegundaQuincena,20161019
+20/10/2016,Jueves,10,2016,201610,Entre Semana,NoQuincena,SegundaQuincena,20161020
+21/10/2016,Viernes,10,2016,201610,Entre Semana,NoQuincena,SegundaQuincena,20161021
+22/10/2016,Sábado,10,2016,201610,Fin de Semana,NoQuincena,SegundaQuincena,20161022
+23/10/2016,Domingo,10,2016,201610,Fin de Semana,NoQuincena,SegundaQuincena,20161023
+24/10/2016,Lunes,10,2016,201610,Entre Semana,NoQuincena,SegundaQuincena,20161024
+25/10/2016,Martes,10,2016,201610,Entre Semana,NoQuincena,SegundaQuincena,20161025
+26/10/2016,Miércoles,10,2016,201610,Entre Semana,NoQuincena,SegundaQuincena,20161026
+27/10/2016,Jueves,10,2016,201610,Entre Semana,NoQuincena,SegundaQuincena,20161027
+28/10/2016,Viernes,10,2016,201610,Entre Semana,NoQuincena,SegundaQuincena,20161028
+29/10/2016,Sábado,10,2016,201610,Fin de Semana,NoQuincena,SegundaQuincena,20161029
+30/10/2016,Domingo,10,2016,201610,Fin de Semana,NoQuincena,SegundaQuincena,20161030
+31/10/2016,Lunes,10,2016,201610,Entre Semana,NoQuincena,SegundaQuincena,20161031
+1/11/2016,Martes,11,2016,201611,Entre Semana,PrimeraQuincena,PrimeraQuincena,20161101
+2/11/2016,Miércoles,11,2016,201611,Entre Semana,PrimeraQuincena,PrimeraQuincena,20161102
+3/11/2016,Jueves,11,2016,201611,Entre Semana,PrimeraQuincena,PrimeraQuincena,20161103
+4/11/2016,Viernes,11,2016,201611,Entre Semana,PrimeraQuincena,PrimeraQuincena,20161104
+5/11/2016,Sábado,11,2016,201611,Fin de Semana,PrimeraQuincena,PrimeraQuincena,20161105
+6/11/2016,Domingo,11,2016,201611,Fin de Semana,PrimeraQuincena,PrimeraQuincena,20161106
+7/11/2016,Lunes,11,2016,201611,Entre Semana,NoQuincena,PrimeraQuincena,20161107
+8/11/2016,Martes,11,2016,201611,Entre Semana,NoQuincena,PrimeraQuincena,20161108
+9/11/2016,Miércoles,11,2016,201611,Entre Semana,NoQuincena,PrimeraQuincena,20161109
+10/11/2016,Jueves,11,2016,201611,Entre Semana,NoQuincena,PrimeraQuincena,20161110
+11/11/2016,Viernes,11,2016,201611,Entre Semana,NoQuincena,PrimeraQuincena,20161111
+12/11/2016,Sábado,11,2016,201611,Fin de Semana,NoQuincena,PrimeraQuincena,20161112
+13/11/2016,Domingo,11,2016,201611,Fin de Semana,NoQuincena,PrimeraQuincena,20161113
+14/11/2016,Lunes,11,2016,201611,Entre Semana,SegundaQuincena,PrimeraQuincena,20161114
+15/11/2016,Martes,11,2016,201611,Entre Semana,SegundaQuincena,PrimeraQuincena,20161115
+16/11/2016,Miércoles,11,2016,201611,Entre Semana,SegundaQuincena,SegundaQuincena,20161116
+17/11/2016,Jueves,11,2016,201611,Entre Semana,SegundaQuincena,SegundaQuincena,20161117
+18/11/2016,Viernes,11,2016,201611,Entre Semana,SegundaQuincena,SegundaQuincena,20161118
+19/11/2016,Sábado,11,2016,201611,Fin de Semana,SegundaQuincena,SegundaQuincena,20161119
+20/11/2016,Domingo,11,2016,201611,Fin de Semana,NoQuincena,SegundaQuincena,20161120
+21/11/2016,Lunes,11,2016,201611,Entre Semana,NoQuincena,SegundaQuincena,20161121
+22/11/2016,Martes,11,2016,201611,Entre Semana,NoQuincena,SegundaQuincena,20161122
+23/11/2016,Miércoles,11,2016,201611,Entre Semana,NoQuincena,SegundaQuincena,20161123
+24/11/2016,Jueves,11,2016,201611,Entre Semana,NoQuincena,SegundaQuincena,20161124
+25/11/2016,Viernes,11,2016,201611,Entre Semana,NoQuincena,SegundaQuincena,20161125
+26/11/2016,Sábado,11,2016,201611,Fin de Semana,NoQuincena,SegundaQuincena,20161126
+27/11/2016,Domingo,11,2016,201611,Fin de Semana,NoQuincena,SegundaQuincena,20161127
+28/11/2016,Lunes,11,2016,201611,Entre Semana,NoQuincena,SegundaQuincena,20161128
+29/11/2016,Martes,11,2016,201611,Entre Semana,NoQuincena,SegundaQuincena,20161129
+30/11/2016,Miércoles,11,2016,201611,Entre Semana,NoQuincena,SegundaQuincena,20161130
+1/12/2016,Jueves,12,2016,201612,Entre Semana,PrimeraQuincena,PrimeraQuincena,20161201
+2/12/2016,Viernes,12,2016,201612,Entre Semana,PrimeraQuincena,PrimeraQuincena,20161202
+3/12/2016,Sábado,12,2016,201612,Fin de Semana,PrimeraQuincena,PrimeraQuincena,20161203
+4/12/2016,Domingo,12,2016,201612,Fin de Semana,PrimeraQuincena,PrimeraQuincena,20161204
+5/12/2016,Lunes,12,2016,201612,Entre Semana,PrimeraQuincena,PrimeraQuincena,20161205
+6/12/2016,Martes,12,2016,201612,Entre Semana,PrimeraQuincena,PrimeraQuincena,20161206
+7/12/2016,Miércoles,12,2016,201612,Entre Semana,NoQuincena,PrimeraQuincena,20161207
+8/12/2016,Jueves,12,2016,201612,Entre Semana,NoQuincena,PrimeraQuincena,20161208
+9/12/2016,Viernes,12,2016,201612,Entre Semana,NoQuincena,PrimeraQuincena,20161209
+10/12/2016,Sábado,12,2016,201612,Fin de Semana,NoQuincena,PrimeraQuincena,20161210
+11/12/2016,Domingo,12,2016,201612,Fin de Semana,NoQuincena,PrimeraQuincena,20161211
+12/12/2016,Lunes,12,2016,201612,Entre Semana,NoQuincena,PrimeraQuincena,20161212
+13/12/2016,Martes,12,2016,201612,Entre Semana,NoQuincena,PrimeraQuincena,20161213
+14/12/2016,Miércoles,12,2016,201612,Entre Semana,SegundaQuincena,PrimeraQuincena,20161214
+15/12/2016,Jueves,12,2016,201612,Entre Semana,SegundaQuincena,PrimeraQuincena,20161215
+16/12/2016,Viernes,12,2016,201612,Entre Semana,SegundaQuincena,SegundaQuincena,20161216
+17/12/2016,Sábado,12,2016,201612,Fin de Semana,SegundaQuincena,SegundaQuincena,20161217
+18/12/2016,Domingo,12,2016,201612,Fin de Semana,SegundaQuincena,SegundaQuincena,20161218
+19/12/2016,Lunes,12,2016,201612,Entre Semana,SegundaQuincena,SegundaQuincena,20161219
+20/12/2016,Martes,12,2016,201612,Entre Semana,NoQuincena,SegundaQuincena,20161220
+21/12/2016,Miércoles,12,2016,201612,Entre Semana,NoQuincena,SegundaQuincena,20161221
+22/12/2016,Jueves,12,2016,201612,Entre Semana,NoQuincena,SegundaQuincena,20161222
+23/12/2016,Viernes,12,2016,201612,Entre Semana,NoQuincena,SegundaQuincena,20161223
+24/12/2016,Sábado,12,2016,201612,Fin de Semana,NoQuincena,SegundaQuincena,20161224
+25/12/2016,Domingo,12,2016,201612,Fin de Semana,NoQuincena,SegundaQuincena,20161225
+26/12/2016,Lunes,12,2016,201612,Entre Semana,NoQuincena,SegundaQuincena,20161226
+27/12/2016,Martes,12,2016,201612,Entre Semana,NoQuincena,SegundaQuincena,20161227
+28/12/2016,Miércoles,12,2016,201612,Entre Semana,NoQuincena,SegundaQuincena,20161228
+29/12/2016,Jueves,12,2016,201612,Entre Semana,NoQuincena,SegundaQuincena,20161229
+30/12/2016,Viernes,12,2016,201612,Entre Semana,NoQuincena,SegundaQuincena,20161230
+31/12/2016,Sábado,12,2016,201612,Fin de Semana,NoQuincena,SegundaQuincena,20161231
+1/01/2017,Domingo,1,2017,201701,Fin de Semana,PrimeraQuincena,PrimeraQuincena,20170101
+2/01/2017,Lunes,1,2017,201701,Entre Semana,PrimeraQuincena,PrimeraQuincena,20170102
+3/01/2017,Martes,1,2017,201701,Entre Semana,PrimeraQuincena,PrimeraQuincena,20170103
+4/01/2017,Miércoles,1,2017,201701,Entre Semana,PrimeraQuincena,PrimeraQuincena,20170104
+5/01/2017,Jueves,1,2017,201701,Entre Semana,PrimeraQuincena,PrimeraQuincena,20170105
+6/01/2017,Viernes,1,2017,201701,Entre Semana,PrimeraQuincena,PrimeraQuincena,20170106
+7/01/2017,Sábado,1,2017,201701,Fin de Semana,NoQuincena,PrimeraQuincena,20170107
+8/01/2017,Domingo,1,2017,201701,Fin de Semana,NoQuincena,PrimeraQuincena,20170108
+9/01/2017,Lunes,1,2017,201701,Entre Semana,NoQuincena,PrimeraQuincena,20170109
+10/01/2017,Martes,1,2017,201701,Entre Semana,NoQuincena,PrimeraQuincena,20170110
+11/01/2017,Miércoles,1,2017,201701,Entre Semana,NoQuincena,PrimeraQuincena,20170111
+12/01/2017,Jueves,1,2017,201701,Entre Semana,NoQuincena,PrimeraQuincena,20170112
+13/01/2017,Viernes,1,2017,201701,Entre Semana,NoQuincena,PrimeraQuincena,20170113
+14/01/2017,Sábado,1,2017,201701,Fin de Semana,SegundaQuincena,PrimeraQuincena,20170114
+15/01/2017,Domingo,1,2017,201701,Fin de Semana,SegundaQuincena,PrimeraQuincena,20170115
+16/01/2017,Lunes,1,2017,201701,Entre Semana,SegundaQuincena,SegundaQuincena,20170116
+17/01/2017,Martes,1,2017,201701,Entre Semana,SegundaQuincena,SegundaQuincena,20170117
+18/01/2017,Miércoles,1,2017,201701,Entre Semana,SegundaQuincena,SegundaQuincena,20170118
+19/01/2017,Jueves,1,2017,201701,Entre Semana,SegundaQuincena,SegundaQuincena,20170119
+20/01/2017,Viernes,1,2017,201701,Entre Semana,NoQuincena,SegundaQuincena,20170120
+21/01/2017,Sábado,1,2017,201701,Fin de Semana,NoQuincena,SegundaQuincena,20170121
+22/01/2017,Domingo,1,2017,201701,Fin de Semana,NoQuincena,SegundaQuincena,20170122
+23/01/2017,Lunes,1,2017,201701,Entre Semana,NoQuincena,SegundaQuincena,20170123
+24/01/2017,Martes,1,2017,201701,Entre Semana,NoQuincena,SegundaQuincena,20170124
+25/01/2017,Miércoles,1,2017,201701,Entre Semana,NoQuincena,SegundaQuincena,20170125
+26/01/2017,Jueves,1,2017,201701,Entre Semana,NoQuincena,SegundaQuincena,20170126
+27/01/2017,Viernes,1,2017,201701,Entre Semana,NoQuincena,SegundaQuincena,20170127
+28/01/2017,Sábado,1,2017,201701,Fin de Semana,NoQuincena,SegundaQuincena,20170128
+29/01/2017,Domingo,1,2017,201701,Fin de Semana,NoQuincena,SegundaQuincena,20170129
+30/01/2017,Lunes,1,2017,201701,Entre Semana,NoQuincena,SegundaQuincena,20170130
+31/01/2017,Martes,1,2017,201701,Entre Semana,NoQuincena,SegundaQuincena,20170131
+1/02/2017,Miércoles,2,2017,201702,Entre Semana,PrimeraQuincena,PrimeraQuincena,20170201
+2/02/2017,Jueves,2,2017,201702,Entre Semana,PrimeraQuincena,PrimeraQuincena,20170202
+3/02/2017,Viernes,2,2017,201702,Entre Semana,PrimeraQuincena,PrimeraQuincena,20170203
+4/02/2017,Sábado,2,2017,201702,Fin de Semana,PrimeraQuincena,PrimeraQuincena,20170204
+5/02/2017,Domingo,2,2017,201702,Fin de Semana,PrimeraQuincena,PrimeraQuincena,20170205
+6/02/2017,Lunes,2,2017,201702,Entre Semana,PrimeraQuincena,PrimeraQuincena,20170206
+7/02/2017,Martes,2,2017,201702,Entre Semana,NoQuincena,PrimeraQuincena,20170207
+8/02/2017,Miércoles,2,2017,201702,Entre Semana,NoQuincena,PrimeraQuincena,20170208
+9/02/2017,Jueves,2,2017,201702,Entre Semana,NoQuincena,PrimeraQuincena,20170209
+10/02/2017,Viernes,2,2017,201702,Entre Semana,NoQuincena,PrimeraQuincena,20170210
+11/02/2017,Sábado,2,2017,201702,Fin de Semana,NoQuincena,PrimeraQuincena,20170211
+12/02/2017,Domingo,2,2017,201702,Fin de Semana,NoQuincena,PrimeraQuincena,20170212
+13/02/2017,Lunes,2,2017,201702,Entre Semana,NoQuincena,PrimeraQuincena,20170213
+14/02/2017,Martes,2,2017,201702,Entre Semana,SegundaQuincena,PrimeraQuincena,20170214
+15/02/2017,Miércoles,2,2017,201702,Entre Semana,SegundaQuincena,PrimeraQuincena,20170215
+16/02/2017,Jueves,2,2017,201702,Entre Semana,SegundaQuincena,SegundaQuincena,20170216
+17/02/2017,Viernes,2,2017,201702,Entre Semana,SegundaQuincena,SegundaQuincena,20170217
+18/02/2017,Sábado,2,2017,201702,Fin de Semana,SegundaQuincena,SegundaQuincena,20170218
+19/02/2017,Domingo,2,2017,201702,Fin de Semana,SegundaQuincena,SegundaQuincena,20170219
+20/02/2017,Lunes,2,2017,201702,Entre Semana,NoQuincena,SegundaQuincena,20170220
+21/02/2017,Martes,2,2017,201702,Entre Semana,NoQuincena,SegundaQuincena,20170221
+22/02/2017,Miércoles,2,2017,201702,Entre Semana,NoQuincena,SegundaQuincena,20170222
+23/02/2017,Jueves,2,2017,201702,Entre Semana,NoQuincena,SegundaQuincena,20170223
+24/02/2017,Viernes,2,2017,201702,Entre Semana,NoQuincena,SegundaQuincena,20170224
+25/02/2017,Sábado,2,2017,201702,Fin de Semana,NoQuincena,SegundaQuincena,20170225
+26/02/2017,Domingo,2,2017,201702,Fin de Semana,NoQuincena,SegundaQuincena,20170226
+27/02/2017,Lunes,2,2017,201702,Entre Semana,NoQuincena,SegundaQuincena,20170227
+28/02/2017,Martes,2,2017,201702,Entre Semana,NoQuincena,SegundaQuincena,20170228
+1/03/2017,Miércoles,3,2017,201703,Entre Semana,PrimeraQuincena,PrimeraQuincena,20170301
+2/03/2017,Jueves,3,2017,201703,Entre Semana,PrimeraQuincena,PrimeraQuincena,20170302
+3/03/2017,Viernes,3,2017,201703,Entre Semana,PrimeraQuincena,PrimeraQuincena,20170303
+4/03/2017,Sábado,3,2017,201703,Fin de Semana,PrimeraQuincena,PrimeraQuincena,20170304
+5/03/2017,Domingo,3,2017,201703,Fin de Semana,PrimeraQuincena,PrimeraQuincena,20170305
+6/03/2017,Lunes,3,2017,201703,Entre Semana,PrimeraQuincena,PrimeraQuincena,20170306
+7/03/2017,Martes,3,2017,201703,Entre Semana,NoQuincena,PrimeraQuincena,20170307
+8/03/2017,Miércoles,3,2017,201703,Entre Semana,NoQuincena,PrimeraQuincena,20170308
+9/03/2017,Jueves,3,2017,201703,Entre Semana,NoQuincena,PrimeraQuincena,20170309
+10/03/2017,Viernes,3,2017,201703,Entre Semana,NoQuincena,PrimeraQuincena,20170310
+11/03/2017,Sábado,3,2017,201703,Fin de Semana,NoQuincena,PrimeraQuincena,20170311
+12/03/2017,Domingo,3,2017,201703,Fin de Semana,NoQuincena,PrimeraQuincena,20170312
+13/03/2017,Lunes,3,2017,201703,Entre Semana,NoQuincena,PrimeraQuincena,20170313
+14/03/2017,Martes,3,2017,201703,Entre Semana,SegundaQuincena,PrimeraQuincena,20170314
+15/03/2017,Miércoles,3,2017,201703,Entre Semana,SegundaQuincena,PrimeraQuincena,20170315
+16/03/2017,Jueves,3,2017,201703,Entre Semana,SegundaQuincena,SegundaQuincena,20170316
+17/03/2017,Viernes,3,2017,201703,Entre Semana,SegundaQuincena,SegundaQuincena,20170317
+18/03/2017,Sábado,3,2017,201703,Fin de Semana,SegundaQuincena,SegundaQuincena,20170318
+19/03/2017,Domingo,3,2017,201703,Fin de Semana,SegundaQuincena,SegundaQuincena,20170319
+20/03/2017,Lunes,3,2017,201703,Entre Semana,NoQuincena,SegundaQuincena,20170320
+21/03/2017,Martes,3,2017,201703,Entre Semana,NoQuincena,SegundaQuincena,20170321
+22/03/2017,Miércoles,3,2017,201703,Entre Semana,NoQuincena,SegundaQuincena,20170322
+23/03/2017,Jueves,3,2017,201703,Entre Semana,NoQuincena,SegundaQuincena,20170323
+24/03/2017,Viernes,3,2017,201703,Entre Semana,NoQuincena,SegundaQuincena,20170324
+25/03/2017,Sábado,3,2017,201703,Fin de Semana,NoQuincena,SegundaQuincena,20170325
+26/03/2017,Domingo,3,2017,201703,Fin de Semana,NoQuincena,SegundaQuincena,20170326
+27/03/2017,Lunes,3,2017,201703,Entre Semana,NoQuincena,SegundaQuincena,20170327
+28/03/2017,Martes,3,2017,201703,Entre Semana,NoQuincena,SegundaQuincena,20170328
+29/03/2017,Miércoles,3,2017,201703,Entre Semana,NoQuincena,SegundaQuincena,20170329
+30/03/2017,Jueves,3,2017,201703,Entre Semana,NoQuincena,SegundaQuincena,20170330
+31/03/2017,Viernes,3,2017,201703,Entre Semana,NoQuincena,SegundaQuincena,20170331
+1/04/2017,Sábado,4,2017,201704,Fin de Semana,PrimeraQuincena,PrimeraQuincena,20170401
+2/04/2017,Domingo,4,2017,201704,Fin de Semana,PrimeraQuincena,PrimeraQuincena,20170402
+3/04/2017,Lunes,4,2017,201704,Entre Semana,PrimeraQuincena,PrimeraQuincena,20170403
+4/04/2017,Martes,4,2017,201704,Entre Semana,PrimeraQuincena,PrimeraQuincena,20170404
+5/04/2017,Miércoles,4,2017,201704,Entre Semana,PrimeraQuincena,PrimeraQuincena,20170405
+6/04/2017,Jueves,4,2017,201704,Entre Semana,PrimeraQuincena,PrimeraQuincena,20170406
+7/04/2017,Viernes,4,2017,201704,Entre Semana,NoQuincena,PrimeraQuincena,20170407
+8/04/2017,Sábado,4,2017,201704,Fin de Semana,NoQuincena,PrimeraQuincena,20170408
+9/04/2017,Domingo,4,2017,201704,Fin de Semana,NoQuincena,PrimeraQuincena,20170409
+10/04/2017,Lunes,4,2017,201704,Entre Semana,NoQuincena,PrimeraQuincena,20170410
+11/04/2017,Martes,4,2017,201704,Entre Semana,NoQuincena,PrimeraQuincena,20170411
+12/04/2017,Miércoles,4,2017,201704,Entre Semana,NoQuincena,PrimeraQuincena,20170412
+13/04/2017,Jueves,4,2017,201704,Entre Semana,NoQuincena,PrimeraQuincena,20170413
+14/04/2017,Viernes,4,2017,201704,Entre Semana,SegundaQuincena,PrimeraQuincena,20170414
+15/04/2017,Sábado,4,2017,201704,Fin de Semana,SegundaQuincena,PrimeraQuincena,20170415
+16/04/2017,Domingo,4,2017,201704,Fin de Semana,SegundaQuincena,SegundaQuincena,20170416
+17/04/2017,Lunes,4,2017,201704,Entre Semana,SegundaQuincena,SegundaQuincena,20170417
+18/04/2017,Martes,4,2017,201704,Entre Semana,SegundaQuincena,SegundaQuincena,20170418
+19/04/2017,Miércoles,4,2017,201704,Entre Semana,SegundaQuincena,SegundaQuincena,20170419
+20/04/2017,Jueves,4,2017,201704,Entre Semana,NoQuincena,SegundaQuincena,20170420
+21/04/2017,Viernes,4,2017,201704,Entre Semana,NoQuincena,SegundaQuincena,20170421
+22/04/2017,Sábado,4,2017,201704,Fin de Semana,NoQuincena,SegundaQuincena,20170422
+23/04/2017,Domingo,4,2017,201704,Fin de Semana,NoQuincena,SegundaQuincena,20170423
+24/04/2017,Lunes,4,2017,201704,Entre Semana,NoQuincena,SegundaQuincena,20170424
+25/04/2017,Martes,4,2017,201704,Entre Semana,NoQuincena,SegundaQuincena,20170425
+26/04/2017,Miércoles,4,2017,201704,Entre Semana,NoQuincena,SegundaQuincena,20170426
+27/04/2017,Jueves,4,2017,201704,Entre Semana,NoQuincena,SegundaQuincena,20170427
+28/04/2017,Viernes,4,2017,201704,Entre Semana,NoQuincena,SegundaQuincena,20170428
+29/04/2017,Sábado,4,2017,201704,Fin de Semana,NoQuincena,SegundaQuincena,20170429
+30/04/2017,Domingo,4,2017,201704,Fin de Semana,NoQuincena,SegundaQuincena,20170430
+1/05/2017,Lunes,5,2017,201705,Entre Semana,PrimeraQuincena,PrimeraQuincena,20170501
+2/05/2017,Martes,5,2017,201705,Entre Semana,PrimeraQuincena,PrimeraQuincena,20170502
+3/05/2017,Miércoles,5,2017,201705,Entre Semana,PrimeraQuincena,PrimeraQuincena,20170503
+4/05/2017,Jueves,5,2017,201705,Entre Semana,PrimeraQuincena,PrimeraQuincena,20170504
+5/05/2017,Viernes,5,2017,201705,Entre Semana,PrimeraQuincena,PrimeraQuincena,20170505
+6/05/2017,Sábado,5,2017,201705,Fin de Semana,PrimeraQuincena,PrimeraQuincena,20170506
+7/05/2017,Domingo,5,2017,201705,Fin de Semana,NoQuincena,PrimeraQuincena,20170507
+8/05/2017,Lunes,5,2017,201705,Entre Semana,NoQuincena,PrimeraQuincena,20170508
+9/05/2017,Martes,5,2017,201705,Entre Semana,NoQuincena,PrimeraQuincena,20170509
+10/05/2017,Miércoles,5,2017,201705,Entre Semana,NoQuincena,PrimeraQuincena,20170510
+11/05/2017,Jueves,5,2017,201705,Entre Semana,NoQuincena,PrimeraQuincena,20170511
+12/05/2017,Viernes,5,2017,201705,Entre Semana,NoQuincena,PrimeraQuincena,20170512
+13/05/2017,Sábado,5,2017,201705,Fin de Semana,NoQuincena,PrimeraQuincena,20170513
+14/05/2017,Domingo,5,2017,201705,Fin de Semana,SegundaQuincena,PrimeraQuincena,20170514
+15/05/2017,Lunes,5,2017,201705,Entre Semana,SegundaQuincena,PrimeraQuincena,20170515
+16/05/2017,Martes,5,2017,201705,Entre Semana,SegundaQuincena,SegundaQuincena,20170516
+17/05/2017,Miércoles,5,2017,201705,Entre Semana,SegundaQuincena,SegundaQuincena,20170517
+18/05/2017,Jueves,5,2017,201705,Entre Semana,SegundaQuincena,SegundaQuincena,20170518
+19/05/2017,Viernes,5,2017,201705,Entre Semana,SegundaQuincena,SegundaQuincena,20170519
+20/05/2017,Sábado,5,2017,201705,Fin de Semana,NoQuincena,SegundaQuincena,20170520
+21/05/2017,Domingo,5,2017,201705,Fin de Semana,NoQuincena,SegundaQuincena,20170521
+22/05/2017,Lunes,5,2017,201705,Entre Semana,NoQuincena,SegundaQuincena,20170522
+23/05/2017,Martes,5,2017,201705,Entre Semana,NoQuincena,SegundaQuincena,20170523
+24/05/2017,Miércoles,5,2017,201705,Entre Semana,NoQuincena,SegundaQuincena,20170524
+25/05/2017,Jueves,5,2017,201705,Entre Semana,NoQuincena,SegundaQuincena,20170525
+26/05/2017,Viernes,5,2017,201705,Entre Semana,NoQuincena,SegundaQuincena,20170526
+27/05/2017,Sábado,5,2017,201705,Fin de Semana,NoQuincena,SegundaQuincena,20170527
+28/05/2017,Domingo,5,2017,201705,Fin de Semana,NoQuincena,SegundaQuincena,20170528
+29/05/2017,Lunes,5,2017,201705,Entre Semana,NoQuincena,SegundaQuincena,20170529
+30/05/2017,Martes,5,2017,201705,Entre Semana,NoQuincena,SegundaQuincena,20170530
+31/05/2017,Miércoles,5,2017,201705,Entre Semana,NoQuincena,SegundaQuincena,20170531
+1/06/2017,Jueves,6,2017,201706,Entre Semana,PrimeraQuincena,PrimeraQuincena,20170601
+2/06/2017,Viernes,6,2017,201706,Entre Semana,PrimeraQuincena,PrimeraQuincena,20170602
+3/06/2017,Sábado,6,2017,201706,Fin de Semana,PrimeraQuincena,PrimeraQuincena,20170603
+4/06/2017,Domingo,6,2017,201706,Fin de Semana,PrimeraQuincena,PrimeraQuincena,20170604
+5/06/2017,Lunes,6,2017,201706,Entre Semana,PrimeraQuincena,PrimeraQuincena,20170605
+6/06/2017,Martes,6,2017,201706,Entre Semana,PrimeraQuincena,PrimeraQuincena,20170606
+7/06/2017,Miércoles,6,2017,201706,Entre Semana,NoQuincena,PrimeraQuincena,20170607
+8/06/2017,Jueves,6,2017,201706,Entre Semana,NoQuincena,PrimeraQuincena,20170608
+9/06/2017,Viernes,6,2017,201706,Entre Semana,NoQuincena,PrimeraQuincena,20170609
+10/06/2017,Sábado,6,2017,201706,Fin de Semana,NoQuincena,PrimeraQuincena,20170610
+11/06/2017,Domingo,6,2017,201706,Fin de Semana,NoQuincena,PrimeraQuincena,20170611
+12/06/2017,Lunes,6,2017,201706,Entre Semana,NoQuincena,PrimeraQuincena,20170612
+13/06/2017,Martes,6,2017,201706,Entre Semana,NoQuincena,PrimeraQuincena,20170613
+14/06/2017,Miércoles,6,2017,201706,Entre Semana,SegundaQuincena,PrimeraQuincena,20170614
+15/06/2017,Jueves,6,2017,201706,Entre Semana,SegundaQuincena,PrimeraQuincena,20170615
+16/06/2017,Viernes,6,2017,201706,Entre Semana,SegundaQuincena,SegundaQuincena,20170616
+17/06/2017,Sábado,6,2017,201706,Fin de Semana,SegundaQuincena,SegundaQuincena,20170617
+18/06/2017,Domingo,6,2017,201706,Fin de Semana,SegundaQuincena,SegundaQuincena,20170618
+19/06/2017,Lunes,6,2017,201706,Entre Semana,SegundaQuincena,SegundaQuincena,20170619
+20/06/2017,Martes,6,2017,201706,Entre Semana,NoQuincena,SegundaQuincena,20170620
+21/06/2017,Miércoles,6,2017,201706,Entre Semana,NoQuincena,SegundaQuincena,20170621
+22/06/2017,Jueves,6,2017,201706,Entre Semana,NoQuincena,SegundaQuincena,20170622
+23/06/2017,Viernes,6,2017,201706,Entre Semana,NoQuincena,SegundaQuincena,20170623
+24/06/2017,Sábado,6,2017,201706,Fin de Semana,NoQuincena,SegundaQuincena,20170624
+25/06/2017,Domingo,6,2017,201706,Fin de Semana,NoQuincena,SegundaQuincena,20170625
+26/06/2017,Lunes,6,2017,201706,Entre Semana,NoQuincena,SegundaQuincena,20170626
+27/06/2017,Martes,6,2017,201706,Entre Semana,NoQuincena,SegundaQuincena,20170627
+28/06/2017,Miércoles,6,2017,201706,Entre Semana,NoQuincena,SegundaQuincena,20170628
+29/06/2017,Jueves,6,2017,201706,Entre Semana,NoQuincena,SegundaQuincena,20170629
+30/06/2017,Viernes,6,2017,201706,Entre Semana,NoQuincena,SegundaQuincena,20170630
+1/07/2017,Sábado,7,2017,201707,Fin de Semana,PrimeraQuincena,PrimeraQuincena,20170701
+2/07/2017,Domingo,7,2017,201707,Fin de Semana,PrimeraQuincena,PrimeraQuincena,20170702
+3/07/2017,Lunes,7,2017,201707,Entre Semana,PrimeraQuincena,PrimeraQuincena,20170703
+4/07/2017,Martes,7,2017,201707,Entre Semana,PrimeraQuincena,PrimeraQuincena,20170704
+5/07/2017,Miércoles,7,2017,201707,Entre Semana,PrimeraQuincena,PrimeraQuincena,20170705
+6/07/2017,Jueves,7,2017,201707,Entre Semana,PrimeraQuincena,PrimeraQuincena,20170706
+7/07/2017,Viernes,7,2017,201707,Entre Semana,NoQuincena,PrimeraQuincena,20170707
+8/07/2017,Sábado,7,2017,201707,Fin de Semana,NoQuincena,PrimeraQuincena,20170708
+9/07/2017,Domingo,7,2017,201707,Fin de Semana,NoQuincena,PrimeraQuincena,20170709
+10/07/2017,Lunes,7,2017,201707,Entre Semana,NoQuincena,PrimeraQuincena,20170710
+11/07/2017,Martes,7,2017,201707,Entre Semana,NoQuincena,PrimeraQuincena,20170711
+12/07/2017,Miércoles,7,2017,201707,Entre Semana,NoQuincena,PrimeraQuincena,20170712
+13/07/2017,Jueves,7,2017,201707,Entre Semana,NoQuincena,PrimeraQuincena,20170713
+14/07/2017,Viernes,7,2017,201707,Entre Semana,SegundaQuincena,PrimeraQuincena,20170714
+15/07/2017,Sábado,7,2017,201707,Fin de Semana,SegundaQuincena,PrimeraQuincena,20170715
+16/07/2017,Domingo,7,2017,201707,Fin de Semana,SegundaQuincena,SegundaQuincena,20170716
+17/07/2017,Lunes,7,2017,201707,Entre Semana,SegundaQuincena,SegundaQuincena,20170717
+18/07/2017,Martes,7,2017,201707,Entre Semana,SegundaQuincena,SegundaQuincena,20170718
+19/07/2017,Miércoles,7,2017,201707,Entre Semana,SegundaQuincena,SegundaQuincena,20170719
+20/07/2017,Jueves,7,2017,201707,Entre Semana,NoQuincena,SegundaQuincena,20170720
+21/07/2017,Viernes,7,2017,201707,Entre Semana,NoQuincena,SegundaQuincena,20170721
+22/07/2017,Sábado,7,2017,201707,Fin de Semana,NoQuincena,SegundaQuincena,20170722
+23/07/2017,Domingo,7,2017,201707,Fin de Semana,NoQuincena,SegundaQuincena,20170723
+24/07/2017,Lunes,7,2017,201707,Entre Semana,NoQuincena,SegundaQuincena,20170724
+25/07/2017,Martes,7,2017,201707,Entre Semana,NoQuincena,SegundaQuincena,20170725
+26/07/2017,Miércoles,7,2017,201707,Entre Semana,NoQuincena,SegundaQuincena,20170726
+27/07/2017,Jueves,7,2017,201707,Entre Semana,NoQuincena,SegundaQuincena,20170727
+28/07/2017,Viernes,7,2017,201707,Entre Semana,NoQuincena,SegundaQuincena,20170728
+29/07/2017,Sábado,7,2017,201707,Fin de Semana,NoQuincena,SegundaQuincena,20170729
+30/07/2017,Domingo,7,2017,201707,Fin de Semana,NoQuincena,SegundaQuincena,20170730
+31/07/2017,Lunes,7,2017,201707,Entre Semana,NoQuincena,SegundaQuincena,20170731
+1/08/2017,Martes,8,2017,201708,Entre Semana,PrimeraQuincena,PrimeraQuincena,20170801
+2/08/2017,Miércoles,8,2017,201708,Entre Semana,PrimeraQuincena,PrimeraQuincena,20170802
+3/08/2017,Jueves,8,2017,201708,Entre Semana,PrimeraQuincena,PrimeraQuincena,20170803
+4/08/2017,Viernes,8,2017,201708,Entre Semana,PrimeraQuincena,PrimeraQuincena,20170804
+5/08/2017,Sábado,8,2017,201708,Fin de Semana,PrimeraQuincena,PrimeraQuincena,20170805
+6/08/2017,Domingo,8,2017,201708,Fin de Semana,PrimeraQuincena,PrimeraQuincena,20170806
+7/08/2017,Lunes,8,2017,201708,Entre Semana,NoQuincena,PrimeraQuincena,20170807
+8/08/2017,Martes,8,2017,201708,Entre Semana,NoQuincena,PrimeraQuincena,20170808
+9/08/2017,Miércoles,8,2017,201708,Entre Semana,NoQuincena,PrimeraQuincena,20170809
+10/08/2017,Jueves,8,2017,201708,Entre Semana,NoQuincena,PrimeraQuincena,20170810
+11/08/2017,Viernes,8,2017,201708,Entre Semana,NoQuincena,PrimeraQuincena,20170811
+12/08/2017,Sábado,8,2017,201708,Fin de Semana,NoQuincena,PrimeraQuincena,20170812
+13/08/2017,Domingo,8,2017,201708,Fin de Semana,NoQuincena,PrimeraQuincena,20170813
+14/08/2017,Lunes,8,2017,201708,Entre Semana,SegundaQuincena,PrimeraQuincena,20170814
+15/08/2017,Martes,8,2017,201708,Entre Semana,SegundaQuincena,PrimeraQuincena,20170815
+16/08/2017,Miércoles,8,2017,201708,Entre Semana,SegundaQuincena,SegundaQuincena,20170816
+17/08/2017,Jueves,8,2017,201708,Entre Semana,SegundaQuincena,SegundaQuincena,20170817
+18/08/2017,Viernes,8,2017,201708,Entre Semana,SegundaQuincena,SegundaQuincena,20170818
+19/08/2017,Sábado,8,2017,201708,Fin de Semana,SegundaQuincena,SegundaQuincena,20170819
+20/08/2017,Domingo,8,2017,201708,Fin de Semana,NoQuincena,SegundaQuincena,20170820
+21/08/2017,Lunes,8,2017,201708,Entre Semana,NoQuincena,SegundaQuincena,20170821
+22/08/2017,Martes,8,2017,201708,Entre Semana,NoQuincena,SegundaQuincena,20170822
+23/08/2017,Miércoles,8,2017,201708,Entre Semana,NoQuincena,SegundaQuincena,20170823
+24/08/2017,Jueves,8,2017,201708,Entre Semana,NoQuincena,SegundaQuincena,20170824
+25/08/2017,Viernes,8,2017,201708,Entre Semana,NoQuincena,SegundaQuincena,20170825
+26/08/2017,Sábado,8,2017,201708,Fin de Semana,NoQuincena,SegundaQuincena,20170826
+27/08/2017,Domingo,8,2017,201708,Fin de Semana,NoQuincena,SegundaQuincena,20170827
+28/08/2017,Lunes,8,2017,201708,Entre Semana,NoQuincena,SegundaQuincena,20170828
+29/08/2017,Martes,8,2017,201708,Entre Semana,NoQuincena,SegundaQuincena,20170829
+30/08/2017,Miércoles,8,2017,201708,Entre Semana,NoQuincena,SegundaQuincena,20170830
+31/08/2017,Jueves,8,2017,201708,Entre Semana,NoQuincena,SegundaQuincena,20170831
+1/09/2017,Viernes,9,2017,201709,Entre Semana,PrimeraQuincena,PrimeraQuincena,20170901
+2/09/2017,Sábado,9,2017,201709,Fin de Semana,PrimeraQuincena,PrimeraQuincena,20170902
+3/09/2017,Domingo,9,2017,201709,Fin de Semana,PrimeraQuincena,PrimeraQuincena,20170903
+4/09/2017,Lunes,9,2017,201709,Entre Semana,PrimeraQuincena,PrimeraQuincena,20170904
+5/09/2017,Martes,9,2017,201709,Entre Semana,PrimeraQuincena,PrimeraQuincena,20170905
+6/09/2017,Miércoles,9,2017,201709,Entre Semana,PrimeraQuincena,PrimeraQuincena,20170906
+7/09/2017,Jueves,9,2017,201709,Entre Semana,NoQuincena,PrimeraQuincena,20170907
+8/09/2017,Viernes,9,2017,201709,Entre Semana,NoQuincena,PrimeraQuincena,20170908
+9/09/2017,Sábado,9,2017,201709,Fin de Semana,NoQuincena,PrimeraQuincena,20170909
+10/09/2017,Domingo,9,2017,201709,Fin de Semana,NoQuincena,PrimeraQuincena,20170910
+11/09/2017,Lunes,9,2017,201709,Entre Semana,NoQuincena,PrimeraQuincena,20170911
+12/09/2017,Martes,9,2017,201709,Entre Semana,NoQuincena,PrimeraQuincena,20170912
+13/09/2017,Miércoles,9,2017,201709,Entre Semana,NoQuincena,PrimeraQuincena,20170913
+14/09/2017,Jueves,9,2017,201709,Entre Semana,SegundaQuincena,PrimeraQuincena,20170914
+15/09/2017,Viernes,9,2017,201709,Entre Semana,SegundaQuincena,PrimeraQuincena,20170915
+16/09/2017,Sábado,9,2017,201709,Fin de Semana,SegundaQuincena,SegundaQuincena,20170916
+17/09/2017,Domingo,9,2017,201709,Fin de Semana,SegundaQuincena,SegundaQuincena,20170917
+18/09/2017,Lunes,9,2017,201709,Entre Semana,SegundaQuincena,SegundaQuincena,20170918
+19/09/2017,Martes,9,2017,201709,Entre Semana,SegundaQuincena,SegundaQuincena,20170919
+20/09/2017,Miércoles,9,2017,201709,Entre Semana,NoQuincena,SegundaQuincena,20170920
+21/09/2017,Jueves,9,2017,201709,Entre Semana,NoQuincena,SegundaQuincena,20170921
+22/09/2017,Viernes,9,2017,201709,Entre Semana,NoQuincena,SegundaQuincena,20170922
+23/09/2017,Sábado,9,2017,201709,Fin de Semana,NoQuincena,SegundaQuincena,20170923
+24/09/2017,Domingo,9,2017,201709,Fin de Semana,NoQuincena,SegundaQuincena,20170924
+25/09/2017,Lunes,9,2017,201709,Entre Semana,NoQuincena,SegundaQuincena,20170925
+26/09/2017,Martes,9,2017,201709,Entre Semana,NoQuincena,SegundaQuincena,20170926
+27/09/2017,Miércoles,9,2017,201709,Entre Semana,NoQuincena,SegundaQuincena,20170927
+28/09/2017,Jueves,9,2017,201709,Entre Semana,NoQuincena,SegundaQuincena,20170928
+29/09/2017,Viernes,9,2017,201709,Entre Semana,NoQuincena,SegundaQuincena,20170929
+30/09/2017,Sábado,9,2017,201709,Fin de Semana,NoQuincena,SegundaQuincena,20170930
+1/10/2017,Domingo,10,2017,201710,Fin de Semana,PrimeraQuincena,PrimeraQuincena,20171001
+2/10/2017,Lunes,10,2017,201710,Entre Semana,PrimeraQuincena,PrimeraQuincena,20171002
+3/10/2017,Martes,10,2017,201710,Entre Semana,PrimeraQuincena,PrimeraQuincena,20171003
+4/10/2017,Miércoles,10,2017,201710,Entre Semana,PrimeraQuincena,PrimeraQuincena,20171004
+5/10/2017,Jueves,10,2017,201710,Entre Semana,PrimeraQuincena,PrimeraQuincena,20171005
+6/10/2017,Viernes,10,2017,201710,Entre Semana,PrimeraQuincena,PrimeraQuincena,20171006
+7/10/2017,Sábado,10,2017,201710,Fin de Semana,NoQuincena,PrimeraQuincena,20171007
+8/10/2017,Domingo,10,2017,201710,Fin de Semana,NoQuincena,PrimeraQuincena,20171008
+9/10/2017,Lunes,10,2017,201710,Entre Semana,NoQuincena,PrimeraQuincena,20171009
+10/10/2017,Martes,10,2017,201710,Entre Semana,NoQuincena,PrimeraQuincena,20171010
+11/10/2017,Miércoles,10,2017,201710,Entre Semana,NoQuincena,PrimeraQuincena,20171011
+12/10/2017,Jueves,10,2017,201710,Entre Semana,NoQuincena,PrimeraQuincena,20171012
+13/10/2017,Viernes,10,2017,201710,Entre Semana,NoQuincena,PrimeraQuincena,20171013
+14/10/2017,Sábado,10,2017,201710,Fin de Semana,SegundaQuincena,PrimeraQuincena,20171014
+15/10/2017,Domingo,10,2017,201710,Fin de Semana,SegundaQuincena,PrimeraQuincena,20171015
+16/10/2017,Lunes,10,2017,201710,Entre Semana,SegundaQuincena,SegundaQuincena,20171016
+17/10/2017,Martes,10,2017,201710,Entre Semana,SegundaQuincena,SegundaQuincena,20171017
+18/10/2017,Miércoles,10,2017,201710,Entre Semana,SegundaQuincena,SegundaQuincena,20171018
+19/10/2017,Jueves,10,2017,201710,Entre Semana,SegundaQuincena,SegundaQuincena,20171019
+20/10/2017,Viernes,10,2017,201710,Entre Semana,NoQuincena,SegundaQuincena,20171020
+21/10/2017,Sábado,10,2017,201710,Fin de Semana,NoQuincena,SegundaQuincena,20171021
+22/10/2017,Domingo,10,2017,201710,Fin de Semana,NoQuincena,SegundaQuincena,20171022
+23/10/2017,Lunes,10,2017,201710,Entre Semana,NoQuincena,SegundaQuincena,20171023
+24/10/2017,Martes,10,2017,201710,Entre Semana,NoQuincena,SegundaQuincena,20171024
+25/10/2017,Miércoles,10,2017,201710,Entre Semana,NoQuincena,SegundaQuincena,20171025
+26/10/2017,Jueves,10,2017,201710,Entre Semana,NoQuincena,SegundaQuincena,20171026
+27/10/2017,Viernes,10,2017,201710,Entre Semana,NoQuincena,SegundaQuincena,20171027
+28/10/2017,Sábado,10,2017,201710,Fin de Semana,NoQuincena,SegundaQuincena,20171028
+29/10/2017,Domingo,10,2017,201710,Fin de Semana,NoQuincena,SegundaQuincena,20171029
+30/10/2017,Lunes,10,2017,201710,Entre Semana,NoQuincena,SegundaQuincena,20171030
+31/10/2017,Martes,10,2017,201710,Entre Semana,NoQuincena,SegundaQuincena,20171031
+1/11/2017,Miércoles,11,2017,201711,Entre Semana,PrimeraQuincena,PrimeraQuincena,20171101
+2/11/2017,Jueves,11,2017,201711,Entre Semana,PrimeraQuincena,PrimeraQuincena,20171102
+3/11/2017,Viernes,11,2017,201711,Entre Semana,PrimeraQuincena,PrimeraQuincena,20171103
+4/11/2017,Sábado,11,2017,201711,Fin de Semana,PrimeraQuincena,PrimeraQuincena,20171104
+5/11/2017,Domingo,11,2017,201711,Fin de Semana,PrimeraQuincena,PrimeraQuincena,20171105
+6/11/2017,Lunes,11,2017,201711,Entre Semana,PrimeraQuincena,PrimeraQuincena,20171106
+7/11/2017,Martes,11,2017,201711,Entre Semana,NoQuincena,PrimeraQuincena,20171107
+8/11/2017,Miércoles,11,2017,201711,Entre Semana,NoQuincena,PrimeraQuincena,20171108
+9/11/2017,Jueves,11,2017,201711,Entre Semana,NoQuincena,PrimeraQuincena,20171109
+10/11/2017,Viernes,11,2017,201711,Entre Semana,NoQuincena,PrimeraQuincena,20171110
+11/11/2017,Sábado,11,2017,201711,Fin de Semana,NoQuincena,PrimeraQuincena,20171111
+12/11/2017,Domingo,11,2017,201711,Fin de Semana,NoQuincena,PrimeraQuincena,20171112
+13/11/2017,Lunes,11,2017,201711,Entre Semana,NoQuincena,PrimeraQuincena,20171113
+14/11/2017,Martes,11,2017,201711,Entre Semana,SegundaQuincena,PrimeraQuincena,20171114
+15/11/2017,Miércoles,11,2017,201711,Entre Semana,SegundaQuincena,PrimeraQuincena,20171115
+16/11/2017,Jueves,11,2017,201711,Entre Semana,SegundaQuincena,SegundaQuincena,20171116
+17/11/2017,Viernes,11,2017,201711,Entre Semana,SegundaQuincena,SegundaQuincena,20171117
+18/11/2017,Sábado,11,2017,201711,Fin de Semana,SegundaQuincena,SegundaQuincena,20171118
+19/11/2017,Domingo,11,2017,201711,Fin de Semana,SegundaQuincena,SegundaQuincena,20171119
+20/11/2017,Lunes,11,2017,201711,Entre Semana,NoQuincena,SegundaQuincena,20171120
+21/11/2017,Martes,11,2017,201711,Entre Semana,NoQuincena,SegundaQuincena,20171121
+22/11/2017,Miércoles,11,2017,201711,Entre Semana,NoQuincena,SegundaQuincena,20171122
+23/11/2017,Jueves,11,2017,201711,Entre Semana,NoQuincena,SegundaQuincena,20171123
+24/11/2017,Viernes,11,2017,201711,Entre Semana,NoQuincena,SegundaQuincena,20171124
+25/11/2017,Sábado,11,2017,201711,Fin de Semana,NoQuincena,SegundaQuincena,20171125
+26/11/2017,Domingo,11,2017,201711,Fin de Semana,NoQuincena,SegundaQuincena,20171126
+27/11/2017,Lunes,11,2017,201711,Entre Semana,NoQuincena,SegundaQuincena,20171127
+28/11/2017,Martes,11,2017,201711,Entre Semana,NoQuincena,SegundaQuincena,20171128
+29/11/2017,Miércoles,11,2017,201711,Entre Semana,NoQuincena,SegundaQuincena,20171129
+30/11/2017,Jueves,11,2017,201711,Entre Semana,NoQuincena,SegundaQuincena,20171130
+1/12/2017,Viernes,12,2017,201712,Entre Semana,PrimeraQuincena,PrimeraQuincena,20171201
+2/12/2017,Sábado,12,2017,201712,Fin de Semana,PrimeraQuincena,PrimeraQuincena,20171202
+3/12/2017,Domingo,12,2017,201712,Fin de Semana,PrimeraQuincena,PrimeraQuincena,20171203
+4/12/2017,Lunes,12,2017,201712,Entre Semana,PrimeraQuincena,PrimeraQuincena,20171204
+5/12/2017,Martes,12,2017,201712,Entre Semana,PrimeraQuincena,PrimeraQuincena,20171205
+6/12/2017,Miércoles,12,2017,201712,Entre Semana,PrimeraQuincena,PrimeraQuincena,20171206
+7/12/2017,Jueves,12,2017,201712,Entre Semana,NoQuincena,PrimeraQuincena,20171207
+8/12/2017,Viernes,12,2017,201712,Entre Semana,NoQuincena,PrimeraQuincena,20171208
+9/12/2017,Sábado,12,2017,201712,Fin de Semana,NoQuincena,PrimeraQuincena,20171209
+10/12/2017,Domingo,12,2017,201712,Fin de Semana,NoQuincena,PrimeraQuincena,20171210
+11/12/2017,Lunes,12,2017,201712,Entre Semana,NoQuincena,PrimeraQuincena,20171211
+12/12/2017,Martes,12,2017,201712,Entre Semana,NoQuincena,PrimeraQuincena,20171212
+13/12/2017,Miércoles,12,2017,201712,Entre Semana,NoQuincena,PrimeraQuincena,20171213
+14/12/2017,Jueves,12,2017,201712,Entre Semana,SegundaQuincena,PrimeraQuincena,20171214
+15/12/2017,Viernes,12,2017,201712,Entre Semana,SegundaQuincena,PrimeraQuincena,20171215
+16/12/2017,Sábado,12,2017,201712,Fin de Semana,SegundaQuincena,SegundaQuincena,20171216
+17/12/2017,Domingo,12,2017,201712,Fin de Semana,SegundaQuincena,SegundaQuincena,20171217
+18/12/2017,Lunes,12,2017,201712,Entre Semana,SegundaQuincena,SegundaQuincena,20171218
+19/12/2017,Martes,12,2017,201712,Entre Semana,SegundaQuincena,SegundaQuincena,20171219
+20/12/2017,Miércoles,12,2017,201712,Entre Semana,NoQuincena,SegundaQuincena,20171220
+21/12/2017,Jueves,12,2017,201712,Entre Semana,NoQuincena,SegundaQuincena,20171221
+22/12/2017,Viernes,12,2017,201712,Entre Semana,NoQuincena,SegundaQuincena,20171222
+23/12/2017,Sábado,12,2017,201712,Fin de Semana,NoQuincena,SegundaQuincena,20171223
+24/12/2017,Domingo,12,2017,201712,Fin de Semana,NoQuincena,SegundaQuincena,20171224
+25/12/2017,Lunes,12,2017,201712,Entre Semana,NoQuincena,SegundaQuincena,20171225
+26/12/2017,Martes,12,2017,201712,Entre Semana,NoQuincena,SegundaQuincena,20171226
+27/12/2017,Miércoles,12,2017,201712,Entre Semana,NoQuincena,SegundaQuincena,20171227
+28/12/2017,Jueves,12,2017,201712,Entre Semana,NoQuincena,SegundaQuincena,20171228
+29/12/2017,Viernes,12,2017,201712,Entre Semana,NoQuincena,SegundaQuincena,20171229
+30/12/2017,Sábado,12,2017,201712,Fin de Semana,NoQuincena,SegundaQuincena,20171230
+31/12/2017,Domingo,12,2017,201712,Fin de Semana,NoQuincena,SegundaQuincena,20171231
+1/01/2018,Lunes,1,2018,201801,Entre Semana,PrimeraQuincena,PrimeraQuincena,20180101
+2/01/2018,Martes,1,2018,201801,Entre Semana,PrimeraQuincena,PrimeraQuincena,20180102
+3/01/2018,Miércoles,1,2018,201801,Entre Semana,PrimeraQuincena,PrimeraQuincena,20180103
+4/01/2018,Jueves,1,2018,201801,Entre Semana,PrimeraQuincena,PrimeraQuincena,20180104
+5/01/2018,Viernes,1,2018,201801,Entre Semana,PrimeraQuincena,PrimeraQuincena,20180105
+6/01/2018,Sábado,1,2018,201801,Fin de Semana,PrimeraQuincena,PrimeraQuincena,20180106
+7/01/2018,Domingo,1,2018,201801,Fin de Semana,NoQuincena,PrimeraQuincena,20180107
+8/01/2018,Lunes,1,2018,201801,Entre Semana,NoQuincena,PrimeraQuincena,20180108
+9/01/2018,Martes,1,2018,201801,Entre Semana,NoQuincena,PrimeraQuincena,20180109
+10/01/2018,Miércoles,1,2018,201801,Entre Semana,NoQuincena,PrimeraQuincena,20180110
+11/01/2018,Jueves,1,2018,201801,Entre Semana,NoQuincena,PrimeraQuincena,20180111
+12/01/2018,Viernes,1,2018,201801,Entre Semana,NoQuincena,PrimeraQuincena,20180112
+13/01/2018,Sábado,1,2018,201801,Fin de Semana,NoQuincena,PrimeraQuincena,20180113
+14/01/2018,Domingo,1,2018,201801,Fin de Semana,SegundaQuincena,PrimeraQuincena,20180114
+15/01/2018,Lunes,1,2018,201801,Entre Semana,SegundaQuincena,PrimeraQuincena,20180115
+16/01/2018,Martes,1,2018,201801,Entre Semana,SegundaQuincena,SegundaQuincena,20180116
+17/01/2018,Miércoles,1,2018,201801,Entre Semana,SegundaQuincena,SegundaQuincena,20180117
+18/01/2018,Jueves,1,2018,201801,Entre Semana,SegundaQuincena,SegundaQuincena,20180118
+19/01/2018,Viernes,1,2018,201801,Entre Semana,SegundaQuincena,SegundaQuincena,20180119
+20/01/2018,Sábado,1,2018,201801,Fin de Semana,NoQuincena,SegundaQuincena,20180120
+21/01/2018,Domingo,1,2018,201801,Fin de Semana,NoQuincena,SegundaQuincena,20180121
+22/01/2018,Lunes,1,2018,201801,Entre Semana,NoQuincena,SegundaQuincena,20180122
+23/01/2018,Martes,1,2018,201801,Entre Semana,NoQuincena,SegundaQuincena,20180123
+24/01/2018,Miércoles,1,2018,201801,Entre Semana,NoQuincena,SegundaQuincena,20180124
+25/01/2018,Jueves,1,2018,201801,Entre Semana,NoQuincena,SegundaQuincena,20180125
+26/01/2018,Viernes,1,2018,201801,Entre Semana,NoQuincena,SegundaQuincena,20180126
+27/01/2018,Sábado,1,2018,201801,Fin de Semana,NoQuincena,SegundaQuincena,20180127
+28/01/2018,Domingo,1,2018,201801,Fin de Semana,NoQuincena,SegundaQuincena,20180128
+29/01/2018,Lunes,1,2018,201801,Entre Semana,NoQuincena,SegundaQuincena,20180129
+30/01/2018,Martes,1,2018,201801,Entre Semana,NoQuincena,SegundaQuincena,20180130
+31/01/2018,Miércoles,1,2018,201801,Entre Semana,NoQuincena,SegundaQuincena,20180131
+1/02/2018,Jueves,2,2018,201802,Entre Semana,PrimeraQuincena,PrimeraQuincena,20180201
+2/02/2018,Viernes,2,2018,201802,Entre Semana,PrimeraQuincena,PrimeraQuincena,20180202
+3/02/2018,Sábado,2,2018,201802,Fin de Semana,PrimeraQuincena,PrimeraQuincena,20180203
+4/02/2018,Domingo,2,2018,201802,Fin de Semana,PrimeraQuincena,PrimeraQuincena,20180204
+5/02/2018,Lunes,2,2018,201802,Entre Semana,PrimeraQuincena,PrimeraQuincena,20180205
+6/02/2018,Martes,2,2018,201802,Entre Semana,PrimeraQuincena,PrimeraQuincena,20180206
+7/02/2018,Miércoles,2,2018,201802,Entre Semana,NoQuincena,PrimeraQuincena,20180207
+8/02/2018,Jueves,2,2018,201802,Entre Semana,NoQuincena,PrimeraQuincena,20180208
+9/02/2018,Viernes,2,2018,201802,Entre Semana,NoQuincena,PrimeraQuincena,20180209
+10/02/2018,Sábado,2,2018,201802,Fin de Semana,NoQuincena,PrimeraQuincena,20180210
+11/02/2018,Domingo,2,2018,201802,Fin de Semana,NoQuincena,PrimeraQuincena,20180211
+12/02/2018,Lunes,2,2018,201802,Entre Semana,NoQuincena,PrimeraQuincena,20180212
+13/02/2018,Martes,2,2018,201802,Entre Semana,NoQuincena,PrimeraQuincena,20180213
+14/02/2018,Miércoles,2,2018,201802,Entre Semana,SegundaQuincena,PrimeraQuincena,20180214
+15/02/2018,Jueves,2,2018,201802,Entre Semana,SegundaQuincena,PrimeraQuincena,20180215
+16/02/2018,Viernes,2,2018,201802,Entre Semana,SegundaQuincena,SegundaQuincena,20180216
+17/02/2018,Sábado,2,2018,201802,Fin de Semana,SegundaQuincena,SegundaQuincena,20180217
+18/02/2018,Domingo,2,2018,201802,Fin de Semana,SegundaQuincena,SegundaQuincena,20180218
+19/02/2018,Lunes,2,2018,201802,Entre Semana,SegundaQuincena,SegundaQuincena,20180219
+20/02/2018,Martes,2,2018,201802,Entre Semana,NoQuincena,SegundaQuincena,20180220
+21/02/2018,Miércoles,2,2018,201802,Entre Semana,NoQuincena,SegundaQuincena,20180221
+22/02/2018,Jueves,2,2018,201802,Entre Semana,NoQuincena,SegundaQuincena,20180222
+23/02/2018,Viernes,2,2018,201802,Entre Semana,NoQuincena,SegundaQuincena,20180223
+24/02/2018,Sábado,2,2018,201802,Fin de Semana,NoQuincena,SegundaQuincena,20180224
+25/02/2018,Domingo,2,2018,201802,Fin de Semana,NoQuincena,SegundaQuincena,20180225
+26/02/2018,Lunes,2,2018,201802,Entre Semana,NoQuincena,SegundaQuincena,20180226
+27/02/2018,Martes,2,2018,201802,Entre Semana,NoQuincena,SegundaQuincena,20180227
+28/02/2018,Miércoles,2,2018,201802,Entre Semana,NoQuincena,SegundaQuincena,20180228
+1/03/2018,Jueves,3,2018,201803,Entre Semana,PrimeraQuincena,PrimeraQuincena,20180301
+2/03/2018,Viernes,3,2018,201803,Entre Semana,PrimeraQuincena,PrimeraQuincena,20180302
+3/03/2018,Sábado,3,2018,201803,Fin de Semana,PrimeraQuincena,PrimeraQuincena,20180303
+4/03/2018,Domingo,3,2018,201803,Fin de Semana,PrimeraQuincena,PrimeraQuincena,20180304
+5/03/2018,Lunes,3,2018,201803,Entre Semana,PrimeraQuincena,PrimeraQuincena,20180305
+6/03/2018,Martes,3,2018,201803,Entre Semana,PrimeraQuincena,PrimeraQuincena,20180306
+7/03/2018,Miércoles,3,2018,201803,Entre Semana,NoQuincena,PrimeraQuincena,20180307
+8/03/2018,Jueves,3,2018,201803,Entre Semana,NoQuincena,PrimeraQuincena,20180308
+9/03/2018,Viernes,3,2018,201803,Entre Semana,NoQuincena,PrimeraQuincena,20180309
+10/03/2018,Sábado,3,2018,201803,Fin de Semana,NoQuincena,PrimeraQuincena,20180310
+11/03/2018,Domingo,3,2018,201803,Fin de Semana,NoQuincena,PrimeraQuincena,20180311
+12/03/2018,Lunes,3,2018,201803,Entre Semana,NoQuincena,PrimeraQuincena,20180312
+13/03/2018,Martes,3,2018,201803,Entre Semana,NoQuincena,PrimeraQuincena,20180313
+14/03/2018,Miércoles,3,2018,201803,Entre Semana,SegundaQuincena,PrimeraQuincena,20180314
+15/03/2018,Jueves,3,2018,201803,Entre Semana,SegundaQuincena,PrimeraQuincena,20180315
+16/03/2018,Viernes,3,2018,201803,Entre Semana,SegundaQuincena,SegundaQuincena,20180316
+17/03/2018,Sábado,3,2018,201803,Fin de Semana,SegundaQuincena,SegundaQuincena,20180317
+18/03/2018,Domingo,3,2018,201803,Fin de Semana,SegundaQuincena,SegundaQuincena,20180318
+19/03/2018,Lunes,3,2018,201803,Entre Semana,SegundaQuincena,SegundaQuincena,20180319
+20/03/2018,Martes,3,2018,201803,Entre Semana,NoQuincena,SegundaQuincena,20180320
+21/03/2018,Miércoles,3,2018,201803,Entre Semana,NoQuincena,SegundaQuincena,20180321
+22/03/2018,Jueves,3,2018,201803,Entre Semana,NoQuincena,SegundaQuincena,20180322
+23/03/2018,Viernes,3,2018,201803,Entre Semana,NoQuincena,SegundaQuincena,20180323
+24/03/2018,Sábado,3,2018,201803,Fin de Semana,NoQuincena,SegundaQuincena,20180324
+25/03/2018,Domingo,3,2018,201803,Fin de Semana,NoQuincena,SegundaQuincena,20180325
+26/03/2018,Lunes,3,2018,201803,Entre Semana,NoQuincena,SegundaQuincena,20180326
+27/03/2018,Martes,3,2018,201803,Entre Semana,NoQuincena,SegundaQuincena,20180327
+28/03/2018,Miércoles,3,2018,201803,Entre Semana,NoQuincena,SegundaQuincena,20180328
+29/03/2018,Jueves,3,2018,201803,Entre Semana,NoQuincena,SegundaQuincena,20180329
+30/03/2018,Viernes,3,2018,201803,Entre Semana,NoQuincena,SegundaQuincena,20180330
+31/03/2018,Sábado,3,2018,201803,Fin de Semana,NoQuincena,SegundaQuincena,20180331
+1/04/2018,Domingo,4,2018,201804,Fin de Semana,PrimeraQuincena,PrimeraQuincena,20180401
+2/04/2018,Lunes,4,2018,201804,Entre Semana,PrimeraQuincena,PrimeraQuincena,20180402
+3/04/2018,Martes,4,2018,201804,Entre Semana,PrimeraQuincena,PrimeraQuincena,20180403
+4/04/2018,Miércoles,4,2018,201804,Entre Semana,PrimeraQuincena,PrimeraQuincena,20180404
+5/04/2018,Jueves,4,2018,201804,Entre Semana,PrimeraQuincena,PrimeraQuincena,20180405
+6/04/2018,Viernes,4,2018,201804,Entre Semana,PrimeraQuincena,PrimeraQuincena,20180406
+7/04/2018,Sábado,4,2018,201804,Fin de Semana,NoQuincena,PrimeraQuincena,20180407
+8/04/2018,Domingo,4,2018,201804,Fin de Semana,NoQuincena,PrimeraQuincena,20180408
+9/04/2018,Lunes,4,2018,201804,Entre Semana,NoQuincena,PrimeraQuincena,20180409
+10/04/2018,Martes,4,2018,201804,Entre Semana,NoQuincena,PrimeraQuincena,20180410
+11/04/2018,Miércoles,4,2018,201804,Entre Semana,NoQuincena,PrimeraQuincena,20180411
+12/04/2018,Jueves,4,2018,201804,Entre Semana,NoQuincena,PrimeraQuincena,20180412
+13/04/2018,Viernes,4,2018,201804,Entre Semana,NoQuincena,PrimeraQuincena,20180413
+14/04/2018,Sábado,4,2018,201804,Fin de Semana,SegundaQuincena,PrimeraQuincena,20180414
+15/04/2018,Domingo,4,2018,201804,Fin de Semana,SegundaQuincena,PrimeraQuincena,20180415
+16/04/2018,Lunes,4,2018,201804,Entre Semana,SegundaQuincena,SegundaQuincena,20180416
+17/04/2018,Martes,4,2018,201804,Entre Semana,SegundaQuincena,SegundaQuincena,20180417
+18/04/2018,Miércoles,4,2018,201804,Entre Semana,SegundaQuincena,SegundaQuincena,20180418
+19/04/2018,Jueves,4,2018,201804,Entre Semana,SegundaQuincena,SegundaQuincena,20180419
+20/04/2018,Viernes,4,2018,201804,Entre Semana,NoQuincena,SegundaQuincena,20180420
+21/04/2018,Sábado,4,2018,201804,Fin de Semana,NoQuincena,SegundaQuincena,20180421
+22/04/2018,Domingo,4,2018,201804,Fin de Semana,NoQuincena,SegundaQuincena,20180422
+23/04/2018,Lunes,4,2018,201804,Entre Semana,NoQuincena,SegundaQuincena,20180423
+24/04/2018,Martes,4,2018,201804,Entre Semana,NoQuincena,SegundaQuincena,20180424
+25/04/2018,Miércoles,4,2018,201804,Entre Semana,NoQuincena,SegundaQuincena,20180425
+26/04/2018,Jueves,4,2018,201804,Entre Semana,NoQuincena,SegundaQuincena,20180426
+27/04/2018,Viernes,4,2018,201804,Entre Semana,NoQuincena,SegundaQuincena,20180427
+28/04/2018,Sábado,4,2018,201804,Fin de Semana,NoQuincena,SegundaQuincena,20180428
+29/04/2018,Domingo,4,2018,201804,Fin de Semana,NoQuincena,SegundaQuincena,20180429
+30/04/2018,Lunes,4,2018,201804,Entre Semana,NoQuincena,SegundaQuincena,20180430
+1/05/2018,Martes,5,2018,201805,Entre Semana,PrimeraQuincena,PrimeraQuincena,20180501
+2/05/2018,Miércoles,5,2018,201805,Entre Semana,PrimeraQuincena,PrimeraQuincena,20180502
+3/05/2018,Jueves,5,2018,201805,Entre Semana,PrimeraQuincena,PrimeraQuincena,20180503
+4/05/2018,Viernes,5,2018,201805,Entre Semana,PrimeraQuincena,PrimeraQuincena,20180504
+5/05/2018,Sábado,5,2018,201805,Fin de Semana,PrimeraQuincena,PrimeraQuincena,20180505
+6/05/2018,Domingo,5,2018,201805,Fin de Semana,PrimeraQuincena,PrimeraQuincena,20180506
+7/05/2018,Lunes,5,2018,201805,Entre Semana,NoQuincena,PrimeraQuincena,20180507
+8/05/2018,Martes,5,2018,201805,Entre Semana,NoQuincena,PrimeraQuincena,20180508
+9/05/2018,Miércoles,5,2018,201805,Entre Semana,NoQuincena,PrimeraQuincena,20180509
+10/05/2018,Jueves,5,2018,201805,Entre Semana,NoQuincena,PrimeraQuincena,20180510
+11/05/2018,Viernes,5,2018,201805,Entre Semana,NoQuincena,PrimeraQuincena,20180511
+12/05/2018,Sábado,5,2018,201805,Fin de Semana,NoQuincena,PrimeraQuincena,20180512
+13/05/2018,Domingo,5,2018,201805,Fin de Semana,NoQuincena,PrimeraQuincena,20180513
+14/05/2018,Lunes,5,2018,201805,Entre Semana,SegundaQuincena,PrimeraQuincena,20180514
+15/05/2018,Martes,5,2018,201805,Entre Semana,SegundaQuincena,PrimeraQuincena,20180515
+16/05/2018,Miércoles,5,2018,201805,Entre Semana,SegundaQuincena,SegundaQuincena,20180516
+17/05/2018,Jueves,5,2018,201805,Entre Semana,SegundaQuincena,SegundaQuincena,20180517
+18/05/2018,Viernes,5,2018,201805,Entre Semana,SegundaQuincena,SegundaQuincena,20180518
+19/05/2018,Sábado,5,2018,201805,Fin de Semana,SegundaQuincena,SegundaQuincena,20180519
+20/05/2018,Domingo,5,2018,201805,Fin de Semana,NoQuincena,SegundaQuincena,20180520
+21/05/2018,Lunes,5,2018,201805,Entre Semana,NoQuincena,SegundaQuincena,20180521
+22/05/2018,Martes,5,2018,201805,Entre Semana,NoQuincena,SegundaQuincena,20180522
+23/05/2018,Miércoles,5,2018,201805,Entre Semana,NoQuincena,SegundaQuincena,20180523
+24/05/2018,Jueves,5,2018,201805,Entre Semana,NoQuincena,SegundaQuincena,20180524
+25/05/2018,Viernes,5,2018,201805,Entre Semana,NoQuincena,SegundaQuincena,20180525
+26/05/2018,Sábado,5,2018,201805,Fin de Semana,NoQuincena,SegundaQuincena,20180526
+27/05/2018,Domingo,5,2018,201805,Fin de Semana,NoQuincena,SegundaQuincena,20180527
+28/05/2018,Lunes,5,2018,201805,Entre Semana,NoQuincena,SegundaQuincena,20180528
+29/05/2018,Martes,5,2018,201805,Entre Semana,NoQuincena,SegundaQuincena,20180529
+30/05/2018,Miércoles,5,2018,201805,Entre Semana,NoQuincena,SegundaQuincena,20180530
+31/05/2018,Jueves,5,2018,201805,Entre Semana,NoQuincena,SegundaQuincena,20180531
+1/06/2018,Viernes,6,2018,201806,Entre Semana,PrimeraQuincena,PrimeraQuincena,20180601
+2/06/2018,Sábado,6,2018,201806,Fin de Semana,PrimeraQuincena,PrimeraQuincena,20180602
+3/06/2018,Domingo,6,2018,201806,Fin de Semana,PrimeraQuincena,PrimeraQuincena,20180603
+4/06/2018,Lunes,6,2018,201806,Entre Semana,PrimeraQuincena,PrimeraQuincena,20180604
+5/06/2018,Martes,6,2018,201806,Entre Semana,PrimeraQuincena,PrimeraQuincena,20180605
+6/06/2018,Miércoles,6,2018,201806,Entre Semana,PrimeraQuincena,PrimeraQuincena,20180606
+7/06/2018,Jueves,6,2018,201806,Entre Semana,NoQuincena,PrimeraQuincena,20180607
+8/06/2018,Viernes,6,2018,201806,Entre Semana,NoQuincena,PrimeraQuincena,20180608
+9/06/2018,Sábado,6,2018,201806,Fin de Semana,NoQuincena,PrimeraQuincena,20180609
+10/06/2018,Domingo,6,2018,201806,Fin de Semana,NoQuincena,PrimeraQuincena,20180610
+11/06/2018,Lunes,6,2018,201806,Entre Semana,NoQuincena,PrimeraQuincena,20180611
+12/06/2018,Martes,6,2018,201806,Entre Semana,NoQuincena,PrimeraQuincena,20180612
+13/06/2018,Miércoles,6,2018,201806,Entre Semana,NoQuincena,PrimeraQuincena,20180613
+14/06/2018,Jueves,6,2018,201806,Entre Semana,SegundaQuincena,PrimeraQuincena,20180614
+15/06/2018,Viernes,6,2018,201806,Entre Semana,SegundaQuincena,PrimeraQuincena,20180615
+16/06/2018,Sábado,6,2018,201806,Fin de Semana,SegundaQuincena,SegundaQuincena,20180616
+17/06/2018,Domingo,6,2018,201806,Fin de Semana,SegundaQuincena,SegundaQuincena,20180617
+18/06/2018,Lunes,6,2018,201806,Entre Semana,SegundaQuincena,SegundaQuincena,20180618
+19/06/2018,Martes,6,2018,201806,Entre Semana,SegundaQuincena,SegundaQuincena,20180619
+20/06/2018,Miércoles,6,2018,201806,Entre Semana,NoQuincena,SegundaQuincena,20180620
+21/06/2018,Jueves,6,2018,201806,Entre Semana,NoQuincena,SegundaQuincena,20180621
+22/06/2018,Viernes,6,2018,201806,Entre Semana,NoQuincena,SegundaQuincena,20180622
+23/06/2018,Sábado,6,2018,201806,Fin de Semana,NoQuincena,SegundaQuincena,20180623
+24/06/2018,Domingo,6,2018,201806,Fin de Semana,NoQuincena,SegundaQuincena,20180624
+25/06/2018,Lunes,6,2018,201806,Entre Semana,NoQuincena,SegundaQuincena,20180625
+26/06/2018,Martes,6,2018,201806,Entre Semana,NoQuincena,SegundaQuincena,20180626
+27/06/2018,Miércoles,6,2018,201806,Entre Semana,NoQuincena,SegundaQuincena,20180627
+28/06/2018,Jueves,6,2018,201806,Entre Semana,NoQuincena,SegundaQuincena,20180628
+29/06/2018,Viernes,6,2018,201806,Entre Semana,NoQuincena,SegundaQuincena,20180629
+30/06/2018,Sábado,6,2018,201806,Fin de Semana,NoQuincena,SegundaQuincena,20180630
+1/07/2018,Domingo,7,2018,201807,Fin de Semana,PrimeraQuincena,PrimeraQuincena,20180701
+2/07/2018,Lunes,7,2018,201807,Entre Semana,PrimeraQuincena,PrimeraQuincena,20180702
+3/07/2018,Martes,7,2018,201807,Entre Semana,PrimeraQuincena,PrimeraQuincena,20180703
+4/07/2018,Miércoles,7,2018,201807,Entre Semana,PrimeraQuincena,PrimeraQuincena,20180704
+5/07/2018,Jueves,7,2018,201807,Entre Semana,PrimeraQuincena,PrimeraQuincena,20180705
+6/07/2018,Viernes,7,2018,201807,Entre Semana,PrimeraQuincena,PrimeraQuincena,20180706
+7/07/2018,Sábado,7,2018,201807,Fin de Semana,NoQuincena,PrimeraQuincena,20180707
+8/07/2018,Domingo,7,2018,201807,Fin de Semana,NoQuincena,PrimeraQuincena,20180708
+9/07/2018,Lunes,7,2018,201807,Entre Semana,NoQuincena,PrimeraQuincena,20180709
+10/07/2018,Martes,7,2018,201807,Entre Semana,NoQuincena,PrimeraQuincena,20180710
+11/07/2018,Miércoles,7,2018,201807,Entre Semana,NoQuincena,PrimeraQuincena,20180711
+12/07/2018,Jueves,7,2018,201807,Entre Semana,NoQuincena,PrimeraQuincena,20180712
+13/07/2018,Viernes,7,2018,201807,Entre Semana,NoQuincena,PrimeraQuincena,20180713
+14/07/2018,Sábado,7,2018,201807,Fin de Semana,SegundaQuincena,PrimeraQuincena,20180714
+15/07/2018,Domingo,7,2018,201807,Fin de Semana,SegundaQuincena,PrimeraQuincena,20180715
+16/07/2018,Lunes,7,2018,201807,Entre Semana,SegundaQuincena,SegundaQuincena,20180716
+17/07/2018,Martes,7,2018,201807,Entre Semana,SegundaQuincena,SegundaQuincena,20180717
+18/07/2018,Miércoles,7,2018,201807,Entre Semana,SegundaQuincena,SegundaQuincena,20180718
+19/07/2018,Jueves,7,2018,201807,Entre Semana,SegundaQuincena,SegundaQuincena,20180719
+20/07/2018,Viernes,7,2018,201807,Entre Semana,NoQuincena,SegundaQuincena,20180720
+21/07/2018,Sábado,7,2018,201807,Fin de Semana,NoQuincena,SegundaQuincena,20180721
+22/07/2018,Domingo,7,2018,201807,Fin de Semana,NoQuincena,SegundaQuincena,20180722
+23/07/2018,Lunes,7,2018,201807,Entre Semana,NoQuincena,SegundaQuincena,20180723
+24/07/2018,Martes,7,2018,201807,Entre Semana,NoQuincena,SegundaQuincena,20180724
+25/07/2018,Miércoles,7,2018,201807,Entre Semana,NoQuincena,SegundaQuincena,20180725
+26/07/2018,Jueves,7,2018,201807,Entre Semana,NoQuincena,SegundaQuincena,20180726
+27/07/2018,Viernes,7,2018,201807,Entre Semana,NoQuincena,SegundaQuincena,20180727
+28/07/2018,Sábado,7,2018,201807,Fin de Semana,NoQuincena,SegundaQuincena,20180728
+29/07/2018,Domingo,7,2018,201807,Fin de Semana,NoQuincena,SegundaQuincena,20180729
+30/07/2018,Lunes,7,2018,201807,Entre Semana,NoQuincena,SegundaQuincena,20180730
+31/07/2018,Martes,7,2018,201807,Entre Semana,NoQuincena,SegundaQuincena,20180731
+1/08/2018,Miércoles,8,2018,201808,Entre Semana,PrimeraQuincena,PrimeraQuincena,20180801
+2/08/2018,Jueves,8,2018,201808,Entre Semana,PrimeraQuincena,PrimeraQuincena,20180802
+3/08/2018,Viernes,8,2018,201808,Entre Semana,PrimeraQuincena,PrimeraQuincena,20180803
+4/08/2018,Sábado,8,2018,201808,Fin de Semana,PrimeraQuincena,PrimeraQuincena,20180804
+5/08/2018,Domingo,8,2018,201808,Fin de Semana,PrimeraQuincena,PrimeraQuincena,20180805
+6/08/2018,Lunes,8,2018,201808,Entre Semana,PrimeraQuincena,PrimeraQuincena,20180806
+7/08/2018,Martes,8,2018,201808,Entre Semana,NoQuincena,PrimeraQuincena,20180807
+8/08/2018,Miércoles,8,2018,201808,Entre Semana,NoQuincena,PrimeraQuincena,20180808
+9/08/2018,Jueves,8,2018,201808,Entre Semana,NoQuincena,PrimeraQuincena,20180809
+10/08/2018,Viernes,8,2018,201808,Entre Semana,NoQuincena,PrimeraQuincena,20180810
+11/08/2018,Sábado,8,2018,201808,Fin de Semana,NoQuincena,PrimeraQuincena,20180811
+12/08/2018,Domingo,8,2018,201808,Fin de Semana,NoQuincena,PrimeraQuincena,20180812
+13/08/2018,Lunes,8,2018,201808,Entre Semana,NoQuincena,PrimeraQuincena,20180813
+14/08/2018,Martes,8,2018,201808,Entre Semana,SegundaQuincena,PrimeraQuincena,20180814
+15/08/2018,Miércoles,8,2018,201808,Entre Semana,SegundaQuincena,PrimeraQuincena,20180815
+16/08/2018,Jueves,8,2018,201808,Entre Semana,SegundaQuincena,SegundaQuincena,20180816
+17/08/2018,Viernes,8,2018,201808,Entre Semana,SegundaQuincena,SegundaQuincena,20180817
+18/08/2018,Sábado,8,2018,201808,Fin de Semana,SegundaQuincena,SegundaQuincena,20180818
+19/08/2018,Domingo,8,2018,201808,Fin de Semana,SegundaQuincena,SegundaQuincena,20180819
+20/08/2018,Lunes,8,2018,201808,Entre Semana,NoQuincena,SegundaQuincena,20180820
+21/08/2018,Martes,8,2018,201808,Entre Semana,NoQuincena,SegundaQuincena,20180821
+22/08/2018,Miércoles,8,2018,201808,Entre Semana,NoQuincena,SegundaQuincena,20180822
+23/08/2018,Jueves,8,2018,201808,Entre Semana,NoQuincena,SegundaQuincena,20180823
+24/08/2018,Viernes,8,2018,201808,Entre Semana,NoQuincena,SegundaQuincena,20180824
+25/08/2018,Sábado,8,2018,201808,Fin de Semana,NoQuincena,SegundaQuincena,20180825
+26/08/2018,Domingo,8,2018,201808,Fin de Semana,NoQuincena,SegundaQuincena,20180826
+27/08/2018,Lunes,8,2018,201808,Entre Semana,NoQuincena,SegundaQuincena,20180827
+28/08/2018,Martes,8,2018,201808,Entre Semana,NoQuincena,SegundaQuincena,20180828
+29/08/2018,Miércoles,8,2018,201808,Entre Semana,NoQuincena,SegundaQuincena,20180829
+30/08/2018,Jueves,8,2018,201808,Entre Semana,NoQuincena,SegundaQuincena,20180830
+31/08/2018,Viernes,8,2018,201808,Entre Semana,NoQuincena,SegundaQuincena,20180831
+1/09/2018,Sábado,9,2018,201809,Fin de Semana,PrimeraQuincena,PrimeraQuincena,20180901
+2/09/2018,Domingo,9,2018,201809,Fin de Semana,PrimeraQuincena,PrimeraQuincena,20180902
+3/09/2018,Lunes,9,2018,201809,Entre Semana,PrimeraQuincena,PrimeraQuincena,20180903
+4/09/2018,Martes,9,2018,201809,Entre Semana,PrimeraQuincena,PrimeraQuincena,20180904
+5/09/2018,Miércoles,9,2018,201809,Entre Semana,PrimeraQuincena,PrimeraQuincena,20180905
+6/09/2018,Jueves,9,2018,201809,Entre Semana,PrimeraQuincena,PrimeraQuincena,20180906
+7/09/2018,Viernes,9,2018,201809,Entre Semana,NoQuincena,PrimeraQuincena,20180907
+8/09/2018,Sábado,9,2018,201809,Fin de Semana,NoQuincena,PrimeraQuincena,20180908
+9/09/2018,Domingo,9,2018,201809,Fin de Semana,NoQuincena,PrimeraQuincena,20180909
+10/09/2018,Lunes,9,2018,201809,Entre Semana,NoQuincena,PrimeraQuincena,20180910
+11/09/2018,Martes,9,2018,201809,Entre Semana,NoQuincena,PrimeraQuincena,20180911
+12/09/2018,Miércoles,9,2018,201809,Entre Semana,NoQuincena,PrimeraQuincena,20180912
+13/09/2018,Jueves,9,2018,201809,Entre Semana,NoQuincena,PrimeraQuincena,20180913
+14/09/2018,Viernes,9,2018,201809,Entre Semana,SegundaQuincena,PrimeraQuincena,20180914
+15/09/2018,Sábado,9,2018,201809,Fin de Semana,SegundaQuincena,PrimeraQuincena,20180915
+16/09/2018,Domingo,9,2018,201809,Fin de Semana,SegundaQuincena,SegundaQuincena,20180916
+17/09/2018,Lunes,9,2018,201809,Entre Semana,SegundaQuincena,SegundaQuincena,20180917
+18/09/2018,Martes,9,2018,201809,Entre Semana,SegundaQuincena,SegundaQuincena,20180918
+19/09/2018,Miércoles,9,2018,201809,Entre Semana,SegundaQuincena,SegundaQuincena,20180919
+20/09/2018,Jueves,9,2018,201809,Entre Semana,NoQuincena,SegundaQuincena,20180920
+21/09/2018,Viernes,9,2018,201809,Entre Semana,NoQuincena,SegundaQuincena,20180921
+22/09/2018,Sábado,9,2018,201809,Fin de Semana,NoQuincena,SegundaQuincena,20180922
+23/09/2018,Domingo,9,2018,201809,Fin de Semana,NoQuincena,SegundaQuincena,20180923
+24/09/2018,Lunes,9,2018,201809,Entre Semana,NoQuincena,SegundaQuincena,20180924
+25/09/2018,Martes,9,2018,201809,Entre Semana,NoQuincena,SegundaQuincena,20180925
+26/09/2018,Miércoles,9,2018,201809,Entre Semana,NoQuincena,SegundaQuincena,20180926
+27/09/2018,Jueves,9,2018,201809,Entre Semana,NoQuincena,SegundaQuincena,20180927
+28/09/2018,Viernes,9,2018,201809,Entre Semana,NoQuincena,SegundaQuincena,20180928
+29/09/2018,Sábado,9,2018,201809,Fin de Semana,NoQuincena,SegundaQuincena,20180929
+30/09/2018,Domingo,9,2018,201809,Fin de Semana,NoQuincena,SegundaQuincena,20180930
+1/10/2018,Lunes,10,2018,201810,Entre Semana,PrimeraQuincena,PrimeraQuincena,20181001
