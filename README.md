@@ -21,7 +21,8 @@ Este proyecto se enmarca en el reto de la competencia Dataton BC 2018, el cual t
 | [MatricesConfusion.xlsx][13] | Resultados finales de los modelos |
 | [VariablesCategoricasFecha.csv][14] | Variables categoricas sobre la fecha |
 | [countwords_completo_categorias.xlsx][15] | Diccionario de palabras asociado a categorias |
-| INFORME_DATATON | Informe oficial del grupo Andinolytics |
+| Informe_Dataton_Andinolytics | Informe oficial del grupo Andinolytics |
+
 ### Integrantes
   - Lina Navas
   - Johnathan Salamanca
