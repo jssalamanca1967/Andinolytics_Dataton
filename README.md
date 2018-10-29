@@ -15,9 +15,12 @@ Este proyecto se enmarca en el reto de la competencia Dataton BC 2018, el cual t
 | [7_ModeloMultinomial.R][7] | Definición de Modelo Multinomial |
 | [8_RedNeuronal_CargueDatos.py][8] | Carga de datos para Red Neuronal |
 | [9_RedNeuronal_Desarrollo.py][9] | Ejecución Red Neuronal |
-| [MatricesConfusion.xlsx][10] | Resultados finales de los modelos |
-| [VariablesCategoricasFecha.csv][11] | Variables categoricas sobre la fecha |
-| [countwords_completo_categorias.xlsx][12] | Diccionario de palabras asociado a categorias |
+| [10_GenerarDatosPrediccionTelecomuniaciones.R][10] | Generación de datos para predicción en telecomunicaciones |
+| [11_ModeloPredictivoTelecomunicaciones.R][11] | Definición de modelo |
+| [Clientes_telecom_2017_copy.csv][12] | Resultados en categoria telecomunicaciones |
+| [MatricesConfusion.xlsx][13] | Resultados finales de los modelos |
+| [VariablesCategoricasFecha.csv][14] | Variables categoricas sobre la fecha |
+| [countwords_completo_categorias.xlsx][15] | Diccionario de palabras asociado a categorias |
 
 ### Integrantes
   - Lina Navas
@@ -36,7 +39,11 @@ Este proyecto se enmarca en el reto de la competencia Dataton BC 2018, el cual t
    [7]: <https://github.com/jssalamanca1967/Andinolytics_Dataton/blob/master/7_ModeloMultinomial.R>
    [8]: <https://github.com/jssalamanca1967/Andinolytics_Dataton/blob/master/8_RedNeuronal_CargueDatos.py>
    [9]: <https://github.com/jssalamanca1967/Andinolytics_Dataton/blob/master/9_RedNeuronal_Desarrollo.py>
-   [10]: <https://github.com/jssalamanca1967/Andinolytics_Dataton/blob/master/MatricesConfusion.xlsx>
-   [11]: <https://github.com/joemccann/dillinger/tree/master/plugins/medium/README.md>
-   [12]: <https://github.com/jssalamanca1967/Andinolytics_Dataton/blob/master/VariablesCategoricasFecha.csv>
-   [13]: <https://github.com/jssalamanca1967/Andinolytics_Dataton/blob/master/countwords_completo_categorias.xlsx>
+   
+   [10]: <https://github.com/jssalamanca1967/Andinolytics_Dataton/blob/master/10_GenerarDatosPrediccionTelecomuniaciones.R>
+   [11]: <https://github.com/jssalamanca1967/Andinolytics_Dataton/blob/master/11_ModeloPredictivoTelecomunicaciones.R>
+    
+   [12]: <https://github.com/jssalamanca1967/Andinolytics_Dataton/blob/master/Clientes_telecom_2017_copy.csv>
+   [13]: <https://github.com/jssalamanca1967/Andinolytics_Dataton/blob/master/MatricesConfusion.xlsx>
+   [14]: <https://github.com/jssalamanca1967/Andinolytics_Dataton/blob/master/VariablesCategoricasFecha.csv>
+   [15]: <https://github.com/jssalamanca1967/Andinolytics_Dataton/blob/master/countwords_completo_categorias.xlsx>
